@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python & C#**
 
-- ⚡ Fun fact **I'm dyslexic :)**
+- ⚡ Fun fact:
+    **I'm dyslexic :)**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
