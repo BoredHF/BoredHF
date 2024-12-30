@@ -1,6 +1,6 @@
 <div class="container">
    <div align="center">
-      <h1>Hi 👋, I'm Albert</h1><br />
+      <h1>Hi 👋</h1><h1>I'm Albert</h1><br />
 
    <p>
    <img src="https://komarev.com/ghpvc/?username=boredhf&label=Profile%20views&color=0e75b6&style=flat" alt="boredhf" />
