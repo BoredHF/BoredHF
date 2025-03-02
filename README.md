@@ -5,11 +5,6 @@
    <p>
    <img src="https://komarev.com/ghpvc/?username=boredhf&label=Profile%20views&color=0e75b6&style=flat" alt="boredhf" />
    </p>
-
-   <h3>About Me:</h3>
-   <ul>💪 I’m currently working on <a href="https://discord.gg/void-event-hub-1076531218830610502">Void Event Hub</a></li></ul>
-   <ul>🌱 I’m currently learning <b>Python & C#</b></li></ul>
-   <ul>🚀 Fun fact: <b>I'm dyslexic :)</b></li></ul>
    
    <h3>Languages and Tools:</h3>
    <div class="languages">
