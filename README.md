@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Albert Roche</h1>
+<h1 align="center">Hi 👋 I'm Albert</h1>
 
 <p align="center">
   <a href="https://github.com/BoredHF">
@@ -51,7 +51,4 @@
 ---
 
 ### 📫 Let's Connect
-
-- 🌐 Portfolio: [albertroche.uk](https://www.albertroche.uk)
-- 💼 LinkedIn: [linkedin.com/in/albertrochedev](https://www.linkedin.com/in/albertrochedev)
 - 💬 Discord: `boredhf`
