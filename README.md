@@ -6,17 +6,6 @@
   </a>
 </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🧑‍🎓 Computer Science student | Backend & Automation enthusiast  
-- 🛠️ Building automation tools, Discord bots, and Minecraft plugins  
-- 🎯 Focused on Go, Java, and C for development  
-- 🧠 Working on projects combining AI, web automation, and gaming  
-- 🏗️ Currently building: a personal dashboard in Go & an RPG Discord bot
-
----
 
 ### 🔧 Tech Stack & Tools
 
@@ -36,19 +25,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=BoredHF&theme=dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
 </p>
-
----
-
-### 📌 Pinned Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🛒 AccountHandleBot](https://github.com/BoredHF/AccountHandleBot) *(private/soon)* | A crypto-integrated Discord bot for automated account selling. Handles payments, inventory, and order fulfillment. | C#, CoinPayments API, Discord.NET |
-| [🧠 JargonBuster CLI](https://github.com/BoredHF/JargonBusterCLI) *(private/soon)* | A command-line tool that helps students decode complex terms using a local jargon database. | Go, CLI, JSON |
-| [💻 Personal Dashboard in Go](https://github.com/BoredHF/Go-Dashboard) *(in progress)* | A self-hosted dashboard with widgets, reminders, GitHub stats, and productivity tools. | Go, REST APIs, HTML |
-| [📷 Instagram Growth Bot](https://github.com/BoredHF/InstaGrowthBot) *(private)* | Automates organic growth and interaction on Instagram. | C#, Selenium |
-
----
 
 ### 📫 Let's Connect
 - 💬 Discord: `boredhf`
